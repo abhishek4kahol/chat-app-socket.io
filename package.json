@@ -1,0 +1,29 @@
+{
+  "name": "chat-app-socket.io",
+  "version": "1.0.0",
+  "description": "A simple chat app with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek4kahol/chat-app-socket.io.git"
+  },
+  "keywords": [
+    "chatapp",
+    "socket.io"
+  ],
+  "author": "abhishek kahol",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/abhishek4kahol/chat-app-socket.io/issues"
+  },
+  "homepage": "https://github.com/abhishek4kahol/chat-app-socket.io#readme"
+}
